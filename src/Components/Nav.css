@@ -1,0 +1,11 @@
+.nav-main{
+    height: 50px;
+    background-color: rgb(63, 62, 62);
+}
+.nav-text{
+    color: wheat; 
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding-top: 15px;
+}
